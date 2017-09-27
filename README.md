@@ -1,6 +1,6 @@
-test  
-
-\## About
+test
+1
+## About
 
 [Homeslice.in](http://homeslice.in) started as a static page to compare two timezones and has evolved into a much more full-featured client side app.
 
