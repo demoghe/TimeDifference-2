@@ -3,7 +3,7 @@ test
 te
 ## About
 22
-[Homeslice.in](http://homeslice.in) started as a static page to compare two timezones and has evolved into a much more full-featured client side app.
+[Homeslice.in](http://homeslice.in) started as a static page to compare two timezones and has evolved into a much more full-featured client side app.a
 
 I used [Moment Timezone][1] which uses [The Time Zone Database][2] as the source of city timezone data:
 
