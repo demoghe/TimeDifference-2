@@ -14,7 +14,7 @@
     Url.set(urlString);
     var urlCities = Url.get().split("/");
   };
-
+a
   exports.addCity = function(city) {
     urlString = Url.get();
     urlString += city + "/";
