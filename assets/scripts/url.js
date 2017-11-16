@@ -6,7 +6,7 @@
 
   exports.get = function() {
     return window.location.hash.substring(1);
-  };
+  }asaaaaaaaa
 
   exports.removeCity = function(city) {
     var regex = city + "\/";
