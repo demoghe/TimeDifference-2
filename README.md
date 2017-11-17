@@ -4,8 +4,6 @@
 
 I used [Moment Timezone][1] which uses [The Time Zone Database][2] as the source of city timezone data:
 
-bbb
-
 > The Time Zone Database (often called tz or zoneinfo) contains code and data that represent the history of local time for many representative locations around the globe. It is updated periodically to reflect changes made by political bodies to time zone boundaries, UTC offsets, and daylight-saving rules.
 
 Moment Timezone provides a copy of this data from 2010–2020. So times *should* update correctly with daylight savings.
